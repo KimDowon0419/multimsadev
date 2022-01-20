@@ -37,4 +37,3 @@ average = sum(p_average_list)/len(p_average_list)
 
 temp = 0
 
-# 제 생각엔 문제가 없어보이는데 오류가 나서 추후에 고치겠습니다.
